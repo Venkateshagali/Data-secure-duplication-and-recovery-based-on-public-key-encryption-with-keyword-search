@@ -1,0 +1,9 @@
+node_modules/
+target/
+build/
+*.zip
+*.rar
+*.mp4
+*.war
+*.jar
+*.log
